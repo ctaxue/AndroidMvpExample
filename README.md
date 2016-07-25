@@ -29,3 +29,5 @@
 
 
 ![Alt text](https://raw.githubusercontent.com/halibobo/BlogImage/master/blog/mvp/mvp.gif)
+
+http://gold.xitu.io/entry/576bb0c4816dfa0055c0cf17/promote?utm_source=baidu&utm_medium=keyword&utm_content=android_mvp&utm_campaign=q3_search
